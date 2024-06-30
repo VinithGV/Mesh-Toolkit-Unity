@@ -33,7 +33,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties: _Colour
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -113,7 +113,7 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _NoiseStrength: 7.1
-    - _NormalStrength: 1
+    - _NormalStrength: 0.163
     - _OcclusionStrength: 1
     - _Offset: 0.89
     - _Parallax: 0.005
@@ -121,14 +121,14 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.532
+    - _Smoothness: 0.076
     - _SmoothnessTextureChannel: 0
     - _SomeMagiv: 1.9
     - _SpecularHighlights: 1
     - _Speed: 2
     - _SrcBlend: 1
     - _Surface: 0
-    - _Tramsparency: 0.96
+    - _Tramsparency: 0.919
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
